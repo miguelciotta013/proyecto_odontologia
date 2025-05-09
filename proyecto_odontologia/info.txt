@@ -1,0 +1,9 @@
+Ya saben esto es una nota donde aclarar informacion relevante 
+Clone el repositorio (git clone "url del repo")
+hice mi propia rama (git checkout -b "rama-tunombre")
+active el entorno virtual dnetro del bash(python -m venv venv)
+instale django desde el cmd (venv\Scripts\activate)
+Fijarse la version de python que tengas en mi casa (Alan) tengo la 3.11.9 comando python --version
+Fijarse la version de python en mi caso (Alan) tengo la 5.2.1 comando django-admin --version
+
+tienen el template de html pero pueden crear mas siempre y cuando los registren al igual que pueden crear otra app siempre y cuando la registren 
